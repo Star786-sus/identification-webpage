@@ -1,0 +1,24 @@
+body
+{
+  color: white;
+  background-color: rgb(204, 164, 255);
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_object, #result_object_name, #result_object_accuracy
+{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
